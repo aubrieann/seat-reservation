@@ -64,3 +64,7 @@
   text-align: center;
   padding: 14ps 16px;
 }
+#chair {
+  max-width: 10px;
+  max-height: 10px;
+}
