@@ -68,6 +68,12 @@ h2 {
   text-align: center;
   padding: 14ps 16px;
 }
+
+#chair {
+  max-width: 10px;
+  max-height: 10px;
+}
+
 footer {
   width: 100%;
   margin: 0 auto;
@@ -142,3 +148,4 @@ li.gcfoot {
   display: inline-block;
   margin: 2% auto;
 }
+
