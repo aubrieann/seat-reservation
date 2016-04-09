@@ -17,39 +17,39 @@ h2 {
   position: relative;
   margin: 7px;
 }
-​,
+
 .place a {
   font-size: 0.6em;
 }
-​,
+
 .place li {
   list-style: none outside none;
   position: absolute;
 }
-​,
+
 .place li:hover {
   background-color: #f00;
 }
-​,
+
 .place .seat {
   background: url("images/available_seat_img.gif") no-repeat scroll 0 0 transparent;
   height: 30px;
   width: 30px;
   display: block;
 }
-​,
+
 .place .pickedSeat {
   background-image: url("images/booked_seat_img.gif");
 }
 .place .pickingSeat {
   background-image: url("images/selected_seat_img.gif");
 }
-​,
+
 .place .row-3,
 .place .row-4 {
   margin-top: 10px;
 }
-​,
+
 .seatDescription li {
   vertical-align: middle;
   list-style: none outside none;
